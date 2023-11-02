@@ -1,7 +1,7 @@
 # egg-the-front
 
 ## Licence
-Pterodactyl Eggs © 2023 by gOOvER is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+Pterodactyl Eggs © 2023 by gOOvER (Torsten Widmann) is licensed under MIT Licence. To view a copy of this license, visit https://opensource.org/license/mit/
 
 ## Game
 
